@@ -1,4 +1,4 @@
-﻿This is my personal projects portifólio website.
+﻿This is my personal projects portifolio website.
 
 --------------------------------------
 
