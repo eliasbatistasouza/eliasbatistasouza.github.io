@@ -207,6 +207,34 @@ header .menu-btn span:after {
 	bottom: -5px;
 }
 
+.menu-flags {
+	position: absolute;
+	top: 0px;
+	height: 57px;
+	width: 100%;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+}
+
+.flag-box{
+	margin-left: 16px;
+	width: 28px;
+	height: 20px;
+	position: relative;
+	display: flex;
+	background-color: #fefefe;
+	justify-content: center;
+	align-items: center;
+	border-radius: 5px;
+}
+
+.flags {
+	position: relative;
+	width: 24px;
+	height: 24px;
+}
+
 /* 3. Section */
 .section {
 	padding: 50px 0;
