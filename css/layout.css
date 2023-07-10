@@ -223,16 +223,8 @@ header .menu-btn span:after {
 	height: 20px;
 	position: relative;
 	display: flex;
-	background-color: #fefefe;
 	justify-content: center;
 	align-items: center;
-	border-radius: 5px;
-}
-
-.flags {
-	position: relative;
-	width: 24px;
-	height: 24px;
 }
 
 /* 3. Section */
