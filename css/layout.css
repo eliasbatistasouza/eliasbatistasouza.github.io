@@ -568,6 +568,18 @@ header .menu-btn span:after {
 		padding: 0 0 15px 0;
 	}
 
+	.section._text .content-box .bts .btn,
+	.section.about .content-box .bts .btn {
+		margin: 0 0 15px 0 !important;
+		display: block !important;
+		width: 100% !important;
+	}
+
+	.section._text .content-box .bts .btn:last-child,
+	.section.about .content-box .bts .btn:last-child {
+		margin-bottom: 0 !important;
+	}
+
 }
 
 .info-list ul li {
